@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Methods","l":"MainMethod"},{"p":"Methods","l":"PrintThePositionOfPlayers"},{"p":"Methods","l":"RollDiceAndMove"},{"p":"Methods","l":"SnakeAndLadderBoard"}];updateSearchResults();
